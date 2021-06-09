@@ -111,7 +111,7 @@ Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 
 # 5. VIDEO
 
-https://youtu.be/1vIi_UhoJZw
+https://youtu.be/6O9hGvsMXwM
 
 # 6. CONCLUCIONES 
 
