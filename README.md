@@ -76,5 +76,11 @@ Efectuar y registrar las siguientes mediciones con el Multimetro digital
 
 Todos estos valores también pueden ser obtenidos resolviendo el circuito por el método teórico de Análisis de Mallas
 
+![image](https://user-images.githubusercontent.com/85178869/121299865-a2297e80-c8bb-11eb-8e83-a5ca30e6a80f.png)
+
+# 4  RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+2.5.1. Implemente el circuito que se presenta en la figura 2.1.
+
 
  
