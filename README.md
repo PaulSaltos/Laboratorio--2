@@ -38,6 +38,8 @@ Comprender  el  método  de  análisis   de malla, y poder establecer una relaci
 
 ![image](https://user-images.githubusercontent.com/85178869/121295174-355eb600-c8b4-11eb-8a01-992f828ccd39.png)
 
+![image](https://user-images.githubusercontent.com/85178869/121302345-2af5e980-c8bf-11eb-84b7-f4ce3b63e2c5.png)
+
 
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -90,5 +92,10 @@ en la tabla 2.1.
 
 2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
-Malla 1 
+
+
+
+
+
+Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
  
