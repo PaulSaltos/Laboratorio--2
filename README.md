@@ -109,5 +109,24 @@ Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 
 # 5. VIDEO
 
+https://youtu.be/1vIi_UhoJZw
 
+# 6. CONCLUCIONES 
+
+• Una de las ventajas que nos da este método es que nos brinda un sistema de ecuaciones para luego poder hallar lo que deseamos. 
+
+• Un circuito electrico y nos da una manera mas practica y sencilla de ver el comportamiento de la corriente dentro un circuito sencillo o que utilice fuentes dependientes o independientes de corriente o de voltaje 
+
+• La efectividad de la técnica que utilizamos (análisis por mallas en conjunto con la ley de ohm) fue muy efectiva,sin embargo la variación o el margen de error tiene una relación directa con los dispositivos de medición y elementos del
+circuito
+
+# 7.Bibliografia web 
+
+https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas
+
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+
+https://media.utp.edu.co/ingenieria-fisica/archivos/Practica_4Gen.pdf
+
+https://www.monografias.com/trabajos73/metodo-analisis-mallas/metodo-analisis-mallas.shtml
  
