@@ -79,12 +79,17 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por el
 
 ![image](https://user-images.githubusercontent.com/85178869/121299865-a2297e80-c8bb-11eb-8e83-a5ca30e6a80f.png)
 
-
+MALLA1
 ![image](https://user-images.githubusercontent.com/85178869/121384397-d88fe980-c90d-11eb-8be3-8f35273537b4.png)
+
+MALLA 3
 
 ![image](https://user-images.githubusercontent.com/85178869/121384622-0d03a580-c90e-11eb-98fb-fd6c03de5fc0.png)
 
-![image](https://user-images.githubusercontent.com/85178869/121384940-4d632380-c90e-11eb-96db-7acc67313311.png)
+MALLA 2
+
+![image](https://user-images.githubusercontent.com/85178869/121391813-666ed300-c914-11eb-8e12-6396ea3baa29.png)
+
 
 # 4  RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -113,8 +118,7 @@ en la tabla 2.1.
 
 Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 
-![image](https://user-images.githubusercontent.com/85178869/121370656-83020f80-c902-11eb-98ee-432f8a6c36e7.png)
-
+![image](https://user-images.githubusercontent.com/85178869/121391739-53f49980-c914-11eb-8d15-cd26258c64de.png)
 
 # 5. VIDEO
 
