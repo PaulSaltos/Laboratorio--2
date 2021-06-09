@@ -79,6 +79,13 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por el
 
 ![image](https://user-images.githubusercontent.com/85178869/121299865-a2297e80-c8bb-11eb-8e83-a5ca30e6a80f.png)
 
+
+![image](https://user-images.githubusercontent.com/85178869/121384397-d88fe980-c90d-11eb-8be3-8f35273537b4.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121384622-0d03a580-c90e-11eb-98fb-fd6c03de5fc0.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121384940-4d632380-c90e-11eb-96db-7acc67313311.png)
+
 # 4  RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 2.5.1. Implemente el circuito que se presenta en la figura 2.1.
