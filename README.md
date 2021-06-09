@@ -95,7 +95,7 @@ en la tabla 2.1.
 
 ![image](https://user-images.githubusercontent.com/85178869/121369830-d1fb7500-c901-11eb-8da4-77f2b477d975.png)
 
-![image](https://user-images.githubusercontent.com/85178869/121369917-e0e22780-c901-11eb-85e9-1ce6d45b9457.png)
+![image](https://user-images.githubusercontent.com/85178869/121371079-decc9880-c902-11eb-8ee4-92679ee65722.png)
 
 ![image](https://user-images.githubusercontent.com/85178869/121369982-ef304380-c901-11eb-973b-1b521df151be.png)
 
