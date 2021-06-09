@@ -38,7 +38,6 @@ Comprender  el  método  de  análisis   de malla, y poder establecer una relaci
 
 ![image](https://user-images.githubusercontent.com/85178869/121295174-355eb600-c8b4-11eb-8a01-992f828ccd39.png)
 
-![image](https://user-images.githubusercontent.com/85178869/121295224-4b6c7680-c8b4-11eb-9092-b2512870d4a1.png)
 
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -82,5 +81,14 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por el
 
 2.5.1. Implemente el circuito que se presenta en la figura 2.1.
 
+![image](https://user-images.githubusercontent.com/85178869/121300363-5cb98100-c8bc-11eb-9731-43ee6db620f9.png)
 
+2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
+
+2.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados
+en la tabla 2.1.
+
+2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
+
+Malla 1 
  
