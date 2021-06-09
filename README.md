@@ -93,8 +93,20 @@ en la tabla 2.1.
 2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 
+![image](https://user-images.githubusercontent.com/85178869/121369830-d1fb7500-c901-11eb-8da4-77f2b477d975.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121369917-e0e22780-c901-11eb-85e9-1ce6d45b9457.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121369982-ef304380-c901-11eb-973b-1b521df151be.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121370036-fd7e5f80-c901-11eb-97cf-41485f9b0005.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121370093-0b33e500-c902-11eb-85cf-85e9ccfa67ea.png)
+
 
 Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/85178869/121370656-83020f80-c902-11eb-98ee-432f8a6c36e7.png)
 
 
 # 5. VIDEO
