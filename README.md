@@ -105,4 +105,9 @@ en la tabla 2.1.
 Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 
 
+![image](https://user-images.githubusercontent.com/85178869/121317735-33a2eb80-c8d0-11eb-8218-78694244f72d.png)
+
+# 5. VIDEO
+
+
  
